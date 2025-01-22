@@ -1,0 +1,21 @@
+{
+	"name": "ColoredCoopStructures",
+	"namespace": "GrumpyRock",
+	"version_number": "0.0.1",
+	"description": "All structures are now colored in coop!",
+	"website_url": "",
+	"dependencies": [
+	],
+	"extra": {
+		"godot": {
+			"authors": ["GrumpyRock"],
+			"description_rich": "",
+			"optional_dependencies": [],
+			"load_before": [],
+			"incompatibilities": [],
+			"compatible_mod_loader_version": ["6.2.0"],
+			"compatible_game_version": ["1.2.3"],
+			"config_schema": {}
+		}
+	}
+}
