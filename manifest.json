@@ -3,7 +3,7 @@
 	"namespace": "GrumpyRock",
 	"version_number": "0.0.1",
 	"description": "All structures are now colored in coop!",
-	"website_url": "",
+	"website_url": "https://github.com/GrumpyRock/BrotatoMods-ColoredCoopStructures",
 	"dependencies": [
 	],
 	"extra": {
